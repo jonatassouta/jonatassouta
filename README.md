@@ -1,7 +1,7 @@
 ### Ola! Muito bem vindo, Eu sou o Jonatas souta
 
 - 🔭 Participo da Turma de Formação da Cast group
-- 🌱 Estudanto .NET
+- 🌱 Estudanto .NET e Front-End Developer
 
 <div>
   <a href="https://www.linkedin.com/in/jonatas-souta/">
