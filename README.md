@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Angular" height="35" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
+  <img align="center" alt="Rafa-Angular" height="35" width="38" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
 
   <img align="right" alt="Rafa-yoda" src="https://i.gifer.com/origin/f3/f367083443fba6e9344555f635e1ba4a_w200.webp">
   
