@@ -1,7 +1,7 @@
 ### Ola! Seja Muito bem vindo, Eu sou o Jonatas souta
 
 - 🔭 Sou entusiasta da area de TI e completamente apaixonado pelo que faço, espero que possamos dividir muitos conhecimentos e desafio, fique a vontade
-- 🌱 Estudanto .NET , Front-End Developer entre outros(a)
+- 🌱 Estudanto .NET , Angular, entre outros(a)
 
 <div>
   <a href="https://www.linkedin.com/in/jonatas-souta/">
