@@ -1,4 +1,4 @@
-### Ola! Seja Muito bem vindo, Eu sou o Jonatas souta
+### Ola! Seja Muito bem vindo, Eu me chamo Jonatas
 
 - 🔭 Sou entusiasta da area de TI e completamente apaixonado pelo que faço, espero que possamos dividir muitos conhecimentos e desafio, fique a vontade
 - 🌱 Estudanto .NET , Angular, entre outros(a)
